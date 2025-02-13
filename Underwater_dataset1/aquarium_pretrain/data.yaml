@@ -1,0 +1,5 @@
+train: C:/Users/Lenovo/underwater_dataset1/aquarium_pretrain/train/images
+val: C:/Users/Lenovo/underwater_dataset1/aquarium_pretrain/valid/images
+test: C:/Users/Lenovo/underwater_dataset1/aquarium_pretrain/test/images
+nc: 7  # Number of classes
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
