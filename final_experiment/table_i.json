@@ -1,0 +1,15 @@
+{
+  "images": 448,
+  "partition": "train",
+  "reference": "original training images",
+  "processed": "cv2.GaussianBlur kernel (5, 5), sigma argument 0",
+  "resize": "256x256 INTER_LINEAR",
+  "psnr_mean": 35.6695088927452,
+  "ssim_mean": 0.9635465438131945,
+  "psnr_formatted": "35.67",
+  "ssim_formatted": "0.9635",
+  "data_range": 255,
+  "ssim_window": 7,
+  "channels": "BGR color, channel_axis=-1",
+  "used_by_detector": false
+}

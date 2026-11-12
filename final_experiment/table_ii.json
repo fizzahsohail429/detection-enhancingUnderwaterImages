@@ -1,0 +1,66 @@
+{
+  "checkpoint": "C:\\Users\\Lenovo\\OneDrive\\Documents\\phd work\\mash- work -underwater draft\\detection-enhancingUnderwaterImages\\final_experiment\\yolov8n_50e\\weights\\best.pt",
+  "split": "val",
+  "precision": 0.8174724967165167,
+  "recall": 0.7015889189553521,
+  "map50": 0.7571972293802747,
+  "map50_95": 0.4575009955128464,
+  "per_class": [
+    {
+      "class": "fish",
+      "precision": 0.8141088653961196,
+      "recall": 0.6884531590413944,
+      "map50": 0.7926511554664621,
+      "map50_95": 0.4438052348563269
+    },
+    {
+      "class": "jellyfish",
+      "precision": 0.9448099854560945,
+      "recall": 0.883574593809075,
+      "map50": 0.9528883469798586,
+      "map50_95": 0.530134607893286
+    },
+    {
+      "class": "penguin",
+      "precision": 0.6847388310127428,
+      "recall": 0.7019230769230769,
+      "map50": 0.699065166255843,
+      "map50_95": 0.3228208276850374
+    },
+    {
+      "class": "puffin",
+      "precision": 0.6631431289190295,
+      "recall": 0.5405405405405406,
+      "map50": 0.559091499539941,
+      "map50_95": 0.27448998244494616
+    },
+    {
+      "class": "shark",
+      "precision": 0.8779626290811654,
+      "recall": 0.631578947368421,
+      "map50": 0.6876658697781373,
+      "map50_95": 0.43512450944731873
+    },
+    {
+      "class": "starfish",
+      "precision": 1.0,
+      "recall": 0.7983854483382907,
+      "map50": 0.8530439292788496,
+      "map50_95": 0.6456905481178151
+    },
+    {
+      "class": "stingray",
+      "precision": 0.7375440371504659,
+      "recall": 0.6666666666666666,
+      "map50": 0.7559746383628311,
+      "map50_95": 0.5504412581451944
+    }
+  ],
+  "results_dict": {
+    "metrics/precision(B)": 0.8174724967165167,
+    "metrics/recall(B)": 0.7015889189553521,
+    "metrics/mAP50(B)": 0.7571972293802747,
+    "metrics/mAP50-95(B)": 0.4575009955128464,
+    "fitness": 0.48747061889958926
+  }
+}
